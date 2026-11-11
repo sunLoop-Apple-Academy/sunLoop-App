@@ -8,7 +8,7 @@
 import SwiftUI
 
 @main
-struct sunLoopApp: App {
+struct FloorAbilityApp: App {
     var body: some Scene {
         WindowGroup {
             ContentView()
